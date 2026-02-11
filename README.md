@@ -1,2 +1,2 @@
 # india_economics
-An economic dashboard of India since independence.
+An economic dashboard of India since independence. 
